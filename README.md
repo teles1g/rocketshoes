@@ -4,7 +4,7 @@ The Flux (architecture) is a project made by Facebook, which together with the R
 
 In this project, I will show you how to create a simple e-commerce using Flux concepts with lib Redux.
 
-![sass](https://github.com/teles1g/rocketshoes/blob/master/rocketshoes.png)
+![rocketshoes](https://github.com/teles1g/rocketshoes/blob/master/rocketshoes.png)
 
 Tool: https://infinite.red/reactotron
 
