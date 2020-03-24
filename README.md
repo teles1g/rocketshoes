@@ -6,6 +6,19 @@ In this project, I will show you how to create a simple e-commerce using Flux co
 
 ![rocketshoes](https://github.com/teles1g/rocketshoes/blob/master/rocketshoes.png)
 
+#### Start Server
+
+```
+yarn server
+```
+
+#### Start Project
+
+```
+yarn start
+```
+#### Util
+
 Tool: https://infinite.red/reactotron
 
 Documentation: https://redux.js.org/introduction/getting-started
