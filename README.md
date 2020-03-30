@@ -19,6 +19,6 @@ yarn start
 ```
 #### Util
 
-Tool: https://infinite.red/reactotron
+Reactotron: https://infinite.red/reactotron
 
 Documentation: https://redux.js.org/introduction/getting-started
