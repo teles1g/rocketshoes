@@ -9,14 +9,17 @@ In this project, I will show you how to create a simple e-commerce using Flux co
 #### Start Server
 
 ```
-yarn server
+-> ~/yarn
+
+-> ~/yarn server
 ```
 
 #### Start Project
 
 ```
-yarn start
+-> ~/yarn start
 ```
+
 #### Util
 
 Reactotron: https://infinite.red/reactotron
