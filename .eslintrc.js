@@ -29,7 +29,6 @@ module.exports = {
     'no-param-reassign': 'off',
     'no-console': ['error', { allow: ['tron'] }],
     'react/state-in-constructor': 'off',
-    'no-console': ['error', { allow: ['tron'] }]
   },
   settings: {
     'import/resolver': {
