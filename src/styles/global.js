@@ -22,7 +22,7 @@ export default createGlobalStyle`
     -webkit-font-smoothing: antialiased;
   }
 
-  body, input, input {
+  body, input, button {
     font: 14px 'Roboto', sans-serif;
   }
 
